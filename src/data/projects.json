@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Talk-Mates",
+    "imageSrc": "projects/proj-5.jpg",
+    "description": "Designed and developed a real-time chat application utilizing the MERN stack & Socket.IO.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "#",
+    "source": "https://github.com/Prajay1610/Talk_Mate"
+  },
+  {
+    "title": "Weather_Vue",
+    "imageSrc": "projects/proj-5.jpg",
+    "description": "A sleek and intuitive weather application built using the Open-Weather API & Javascript",
+    "skills": ["OpenWeather API", "Node", "React"],
+    "demo": "#",
+    "source": "https://github.com/Prajay1610/WeatherApp"
+  },
+  {
+    "title": "Volume_Controller",
+    "imageSrc": "projects/proj-5.jpg",
+    "description": "An OpenCV Based Volume Controller using Hand Gestures ~ Stack(AI+Python) ",
+    "skills": ["AI", "OpenCV", "Computer Vision"],
+    "demo": "#",
+    "source": "https://github.com/Prajay1610"
+  }
+]

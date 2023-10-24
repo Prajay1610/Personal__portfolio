@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Developement Intern",
+    "organisation": "Curamatix HealthCare Pvt Ltd",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked On NLP For Chatbots",
+      "Implemented & Integrated Hubspot CRM with Node Environment",
+      "Optimizing Field-Intelligence Workflow."
+    ],
+    "imageSrc": "history/orgicon.png"
+  },
+  {
+    "role": "Trainee Software Developer",
+    "organisation": "Sumago Infotech Pvt Ltd",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Worked on 3 Client-Sided Projects and delivered them with perfection.",
+      "Learnt & Implemented Server-Side Scripting through PHP."
+    ],
+    "imageSrc": "history/orgicon.png"
+  }
+]
