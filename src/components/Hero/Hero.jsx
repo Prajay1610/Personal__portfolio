@@ -40,7 +40,7 @@ const Hero = () => {
       </div>
       <img
         className={styles.heroImg}
-        src={getImageUrl("hero/heroImage5.png")}
+        src={getImageUrl("hero/profilepic.jpg")}
         alt="Hero-Image"
       />
       <div className={styles.topBlur} />
