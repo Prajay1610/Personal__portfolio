@@ -40,10 +40,9 @@ const About = () => {
                 alt="Server-Icon"
               />
               <div>
-                <h3 className={styles.abt_title}>Backend Developer</h3>
+                <h3 className={styles.abt_title}>Java Full Stack Developer</h3>
                 <p>
-                  I'm Backend developer with a proven track record of creating
-                  high-performance and optimized backend systems and APIs.{" "}
+                I'm a Java Full-Stack Developer with expertise in Spring Boot, Spring Security, Spring Data JPA, Servlets, and more.
                 </p>
               </div>
             </li>

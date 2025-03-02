@@ -1,50 +1,56 @@
-[
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+[   {
+  "title": "C++",
+  "imageSrc": "skills/cpp.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.svg"
   },
   {
-    "title": "React",
+    "title": "Hibernate",
+    "imageSrc": "skills/hibernate.png"
+  },
+  {
+    "title": "React.js",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
-  },
-  {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "PHP",
-    "imageSrc": "skills/php.png"
-  },
-  {
-    "title": "JS",
-    "imageSrc": "skills/js.webp"
-  },
-  {
-    "title": "MySQL",
-    "imageSrc": "skills/sql.png"
   },
   {
     "title": "Express",
     "imageSrc": "skills/express.png"
   },
   {
-    "title": "C++",
-    "imageSrc": "skills/cpp.png"
+    "title": "JS",
+    "imageSrc": "skills/js.webp"
   },
   {
-    "title": "Java",
-    "imageSrc": "skills/java.png"
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+ 
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker .png"
+  },
+  {
+    "title": "AWS-EC2",
+    "imageSrc": "skills/aws.png"
   }
+  
+ 
+  
+
+  
 ]

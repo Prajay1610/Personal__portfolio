@@ -1,26 +1,18 @@
 [
   {
+    "title": "EBanking Management System",
+    "imageSrc": "projects/ebanking.avif",
+"description": "This project develops a secure, scalable e-banking system for customers, bank managers, and admins. It also addresses scalability using Spring Boot (backend), J2EE, Spring Data JPA, and MySQL, ensuring smooth performance with pagination.",
+    "skills": ["React.js","Node.js","SpringBoot","Spring-Security","MySQL","Docker-Compose","AWS-EC2"],
+    "demo": "#",
+    "source": "https://github.com/Prajay1610/eBanking_Management_System"
+  },
+  {
     "title": "Talk-Mates",
-    "imageSrc": "projects/proj-5.jpg",
-    "description": "Designed and developed a real-time chat application utilizing the MERN stack & Socket.IO.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "imageSrc": "projects/talkmates.png",
+"description": "Developed a MERN stack-based chat application with a React-based UI and an Express.js/Node.js backend, featuring real-time messaging powered by Socket.io and admin-controlled functionalities for efficient user and conversation management.",
+    "skills": ["Socket.io","React.js", "Express.js", "Node.js", "MongoDB"],
     "demo": "#",
     "source": "https://github.com/Prajay1610/Talk_Mate"
-  },
-  {
-    "title": "Weather_Vue",
-    "imageSrc": "projects/proj-5.jpg",
-    "description": "A sleek and intuitive weather application built using the Open-Weather API & Javascript",
-    "skills": ["OpenWeather API", "Node", "React"],
-    "demo": "#",
-    "source": "https://github.com/Prajay1610/WeatherApp"
-  },
-  {
-    "title": "Volume_Controller",
-    "imageSrc": "projects/proj-5.jpg",
-    "description": "An OpenCV Based Volume Controller using Hand Gestures ~ Stack(AI+Python) ",
-    "skills": ["AI", "OpenCV", "Computer Vision"],
-    "demo": "#",
-    "source": "https://github.com/Prajay1610"
   }
 ]
