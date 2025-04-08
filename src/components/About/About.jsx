@@ -18,21 +18,7 @@ const About = () => {
           alt="Image-laptop"
         />
         <ul className={styles.aboutItems}>
-          <ScrollAnimation animateIn="flipInY">
-            <li className={styles.aboutItem}>
-              <img
-                src={getImageUrl("about/cursorIcon.png")}
-                alt="Cursor-Icon"
-              />
-              <div>
-                <h3 className={styles.abt_title}>Frontend Developer</h3>
-                <p>
-                  I'm a frontend developer with experience in building
-                  responsive and optimized sites
-                </p>
-              </div>
-            </li>
-          </ScrollAnimation>
+         
           <ScrollAnimation animateIn="flipInY">
             <li className={styles.aboutItem}>
               <img
@@ -58,6 +44,22 @@ const About = () => {
                   applications using MongoDB, Express.js, React, and Node.js,
                   with a passion for creating dynamic and interactive user
                   experiences.
+                </p>
+              </div>
+            </li>
+          </ScrollAnimation>
+
+          <ScrollAnimation animateIn="flipInY">
+            <li className={styles.aboutItem}>
+              <img
+                src={getImageUrl("about/cursorIcon.png")}
+                alt="Cursor-Icon"
+              />
+              <div>
+                <h3 className={styles.abt_title}>Frontend Developer</h3>
+                <p>
+                  I'm a frontend developer with experience in building
+                  responsive and optimized sites
                 </p>
               </div>
             </li>

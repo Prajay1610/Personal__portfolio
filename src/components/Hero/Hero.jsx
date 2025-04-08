@@ -32,7 +32,7 @@ const Hero = () => {
           </a>
           <a
             className={styles.resumeBtn}
-            href="https://drive.google.com/file/d/1wE2epi-pBjf6guiLvqJy-cjj-u_tCuT7/view?usp=sharing"
+            href="https://drive.google.com/file/d/1shNdrxIPCp8mIUJfZQa4wOyGBjLEcoGY/view?usp=sharing"
           >
             Resume
           </a>

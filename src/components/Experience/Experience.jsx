@@ -37,7 +37,8 @@ const Experience = () => {
                   alt={`${history.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${history.role}, ${history.organisation}`}</h3>
+                  <h3>{`${history.role}`}</h3>
+                  <p>{`${history.organisation}`}</p>
                   <p>{`${history.startDate}- ${history.endDate}`}</p>
                   <ul className="history-roles">
                     {history.experiences.map((experience, id) => {

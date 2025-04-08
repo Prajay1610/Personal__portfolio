@@ -1,4 +1,15 @@
-[
+[ {
+  "role": "Project Engineer",
+  "organisation": "CDAC Pune,Maharashtra",
+  "startDate": "Mar, 2025",
+  "endDate": "Present",
+  "experiences": [
+    "Working as a Project Engineer on the EPFO (Employees' Provident Fund Organisation) project at CDAC.",
+    "Implementing Apache Shiro for authentication and role-based access control.",
+    "Creating dynamic and printable reports using JasperReports."
+  ],
+  "imageSrc": "history/orgicon.png"
+  },
   {
     "role": "Software Developement Intern",
     "organisation": "Curamatix HealthCare Pvt Ltd",
@@ -10,16 +21,6 @@
       "Optimizing Field-Intelligence Workflow."
     ],
     "imageSrc": "history/orgicon.png"
-  },
-  {
-    "role": "Trainee Software Developer",
-    "organisation": "Sumago Infotech Pvt Ltd",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": [
-      "Worked on 3 Client-Sided Projects and delivered them with perfection.",
-      "Learnt & Implemented Server-Side Scripting through PHP."
-    ],
-    "imageSrc": "history/orgicon.png"
   }
+  
 ]
